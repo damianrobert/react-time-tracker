@@ -1,0 +1,19 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 16px;
+ 
+  background-color: hsl(226, 43%, 10%);
+
+}
+
+
+
+
+
